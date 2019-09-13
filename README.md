@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -28,6 +28,7 @@ _8 TILs and counting..._
 ### Python
 
 - [Check if a Database entry exists](python/django_db_entry_exists.md)
+- [Add custom field to django rest framework serializer](python/django_rest_framework_custom_field.md)
 - [Formatting strings with kwargs](python/formatting_strings_with_kwargs.md)
 - [Get exception context](python/get_exception_context.md)
 
