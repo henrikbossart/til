@@ -6,13 +6,14 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Bash](#bash)
+* [Misc](#misc)
 * [Python](#python)
 
 ---
@@ -24,6 +25,10 @@ _11 TILs and counting..._
 - [Check OS](bash/check_os.md)
 - [Interactively Read User Input](bash/read_interactive_user_input.md)
 - [Simple Coloring of Strings](bash/simple_coloring_of_strings.md)
+
+### Misc
+
+- [Fix battery drainage in sleep mode](misc/ubuntu_battery_drain_fix.md)
 
 ### Python
 
