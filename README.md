@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -23,6 +23,7 @@ _12 TILs and counting..._
 - [Check Executable Existence](bash/check_executable_existence.md)
 - [Check File Existence](bash/check_file_existence.md)
 - [Check OS](bash/check_os.md)
+- [Delete unused git branches](bash/delete_all_unused_git_branches.md)
 - [Interactively Read User Input](bash/read_interactive_user_input.md)
 - [Simple Coloring of Strings](bash/simple_coloring_of_strings.md)
 
