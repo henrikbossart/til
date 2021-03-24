@@ -6,13 +6,14 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Bash](#bash)
+* [Javascript](#javascript)
 * [Misc](#misc)
 * [Python](#python)
 
@@ -26,6 +27,10 @@ _13 TILs and counting..._
 - [Delete unused git branches](bash/delete_all_unused_git_branches.md)
 - [Interactively Read User Input](bash/read_interactive_user_input.md)
 - [Simple Coloring of Strings](bash/simple_coloring_of_strings.md)
+
+### Javascript
+
+- [javascript/vue_multiple_components_id.md](javascript/vue_multiple_components_id.md)
 
 ### Misc
 
