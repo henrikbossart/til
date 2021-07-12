@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
@@ -30,7 +30,8 @@ _14 TILs and counting..._
 
 ### Javascript
 
-- [javascript/vue_multiple_components_id.md](javascript/vue_multiple_components_id.md)
+- [Handling an event in a Vue template without the need for creating a function](javascript/ts_template_function.md)
+- [Handle multiple instances of components and IDs](javascript/vue_multiple_components_id.md)
 
 ### Misc
 
