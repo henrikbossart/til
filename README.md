@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _15 TILs and counting..._
 
 ### Misc
 
+- [SSH tunnel to a server](misc/ssh_tunnel.md)
 - [Fix battery drainage in sleep mode](misc/ubuntu_battery_drain_fix.md)
 
 ### Python
