@@ -70,7 +70,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2016 Jonas Svarvaa
+&copy; 2023 Henrik Bossart
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
