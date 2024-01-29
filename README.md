@@ -6,24 +6,20 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [M1 mac stuff](#M1 mac stuff)
 * [Bash](#bash)
 * [Html](#html)
 * [Javascript](#javascript)
+* [Macos](#macOs)
 * [Misc](#misc)
 * [Python](#python)
 
 ---
-
-### M1 mac stuff
-
-- [When postgres is updated](M1 mac stuff/postgres_restart.md)
 
 ### Bash
 
@@ -44,6 +40,11 @@ _21 TILs and counting..._
 
 - [Handling an event in a Vue template without the need for creating a function](javascript/ts_template_function.md)
 - [Handle multiple instances of components and IDs](javascript/vue_multiple_components_id.md)
+
+### Macos
+
+- [enable it in terminal](macOs/enable_keyboard_navigation.md)
+- [When postgres is updated](macOs/postgres_restart.md)
 
 ### Misc
 
@@ -70,7 +71,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2023 Henrik Bossart
+&copy; 2016 Jonas Svarvaa
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
